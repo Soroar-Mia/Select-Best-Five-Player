@@ -1,0 +1,11 @@
+.body-color{
+    background-color: rgba(12, 45, 93, 0.926);
+}
+.hight{
+    height: 800px;
+}
+.backColor{
+    background-color: aqua;
+    color:red;
+    font-weight: 700;
+}
